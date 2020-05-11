@@ -3,8 +3,8 @@
 This is a small starter project that hooks up basic project pipeline to support Java Spring Boot for a server backend, and Ember.js for the frontend.
 
 ### Tech Stack
-- Java Spring Boot 2.2.7.RELEASE
-- Ember Octane 3.18.0
+- Java Spring Boot `2.2.7.RELEASE`
+- Ember Octane `v3.18.0`
 - Node `v12.16.3`
 - Yarn `v1.22.4`
 
